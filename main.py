@@ -10,6 +10,7 @@ def main():
     print("Pandas Series:\n", s)
 
     print("I'm not surprised motherf**kers!")
+    print("I love this shit. I can do this for my whole and it will never get boring.")
 
 if __name__ == "__main__":
     main()
